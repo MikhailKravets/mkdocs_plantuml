@@ -10,7 +10,7 @@ root {
   	LineThickness 1.0
   	Shadowing: 0.0;
 
-  	HyperLinkColor blue
+  	HyperLinkColor LightSkyBlue
   	FontColor white
   	LineColor #e7e7e7
   	BackGroundColor #313139
